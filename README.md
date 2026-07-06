@@ -15,3 +15,4 @@ This project controls the mouse cursor using hand gestures.
 - Real-time hand tracking
 
 ## Run Project
+streamlit run app.py
